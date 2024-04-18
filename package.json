@@ -1,6 +1,6 @@
 {
   "name": "cfxs_to_erc20",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peaceyourself/cfxs_to_erc20"
+  },
   "dependencies": {
     "axios": "^1.6.2",
     "commander": "^11.1.0",
